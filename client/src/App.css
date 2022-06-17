@@ -7,7 +7,9 @@
   font-family: Vast-Shadow-Regular;
   src: url('assets/fonts/Vast_Shadow/VastShadow-Regular.ttf');
 }
-
+.welcome-page-container{
+  height: 100vh;
+}
 .noselect{
   user-select: none;
 }
