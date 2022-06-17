@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Bungee-Shade-Regular;
+  src: url('assets/fonts/Bungee_Shade/BungeeShade-Regular.ttf');
+}
+
+@font-face {
+  font-family: Vast-Shadow-Regular;
+  src: url('assets/fonts/Vast_Shadow/VastShadow-Regular.ttf');
+}
+
+.noselect{
+  user-select: none;
+}
